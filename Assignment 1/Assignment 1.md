@@ -1,9 +1,9 @@
-## General boundary
+- ## _General boundary_
 The general boundary G, with respect to hypothesis space H and training
 data D, is the set of maximally general members of H consistent with D.<br>
 ![image](https://user-images.githubusercontent.com/64849889/141343101-4d2d2b51-c818-4cb7-90c6-9ba54ab0ef7f.png)
 
-## Specific boundary
+- ## _Specific boundary_
 The specific boundary S, with respect to hypothesis space H and training
 data D, is the set of minimally general (i.e., maximally specific) members of H
 consistent with D.
@@ -13,7 +13,7 @@ consistent with D.
 
 
 
-## _Version space representation theorem_. 
+- ## _Version space representation theorem_
 Let X be an arbitrary set of instances and let H be a set of boolean-valued hypotheses defined over X. Let c : X + {O, 1} be an arbitrary target concept defined over X and let D be an arbitrary set of training examples {<x, c(x)>}. For all X, H, c, and D such that S and G are well defined, 
 
 ![image](https://user-images.githubusercontent.com/64849889/141342831-5dc12c05-0cc7-4e7d-b923-3a6fcabb757f.png)
