@@ -9,10 +9,6 @@ data D, is the set of minimally general (i.e., maximally specific) members of H
 consistent with D.
 ![image](https://user-images.githubusercontent.com/64849889/141343196-c04aba58-7945-46b8-9286-7280eb1418dc.png)
 
-
-
-
-
 - ## _Version space representation theorem_
 Let X be an arbitrary set of instances and let H be a set of boolean-valued hypotheses defined over X. Let c : X + {O, 1} be an arbitrary target concept defined over X and let D be an arbitrary set of training examples {<x, c(x)>}. For all X, H, c, and D such that S and G are well defined, 
 
